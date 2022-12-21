@@ -1,0 +1,7 @@
+com\studentManagement\exception\CourseException.class
+com\studentManagement\exception\AdminException.class
+com\studentManagement\exception\StudentException.class
+com\studentManagement\exception\GlobalExceptionHandler.class
+com\studentManagement\exception\MyErrorDetails.class
+com\studentManagement\StudentManagementApplicatonApplication.class
+com\studentManagement\exception\LoginException.class
